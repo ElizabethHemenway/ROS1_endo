@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-### written by: Elizabeth Hemenway with help from chatgpt
+### written by: Elizabeth Hemenway 
 ### 1/20/25
 ### A script to take the average of each ends analysis window across biological replicates, subtract mutant from wild-type, and cluster based on differences. 
 ### usage: ./make_diff_hmaps.r r3_minus_Col_r3TEs_CG listofdatafiles
