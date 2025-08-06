@@ -1,6 +1,6 @@
 #!/bin/bash
 ##07/18/2024 EAH
-##batch call DMRs in allelic data - REDO because I found a typo in DSS script, working backwards through analysis. 
+##batch call DMRs in allelic data 
 ##/lab/solexa_gehring/elizabeth/allelic_emseq/DMRs/_batch_callDMRs.sh
 #USAGE: ./DSS_3rep_v2.r output.file context samplelist (Ax3 Bx3)
 
